@@ -15,43 +15,33 @@ The certificates and credential links included here provide evidence of continuo
 
 ### Ethical Hacking Fundamentals
 
--**Provider:** LearnKarts
-
--**Completed:** August 2026
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/F5RPJB0HYZGQ)
+- **Provider:** LearnKarts
+- **Completed:** August 2026
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/F5RPJB0HYZGQ)
 
 ### Cryptography
 
--**Provider:** ISC2
-
--**Completed:** June 2026
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/KOUA9VXN3UCY)
+- **Provider:** ISC2
+- **Completed:** June 2026
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/KOUA9VXN3UCY)
 
 ### Data & Cybersecurity
 
--**Provider:** Campus BBVA
-
--**Completed:** September 2025
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/U3LCCCT8DJ5E)
+- **Provider:** Campus BBVA
+- **Completed:** September 2025
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/U3LCCCT8DJ5E)
 
 ### Cybersecurity and Mobility
 
--**Institution:** Kennesaw State University
-
--**Completed:** July 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/HP7H5RVR3DCB)
+- **Institution:** Kennesaw State University
+- **Completed:** July 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/HP7H5RVR3DCB)
 
 ### Cybersecurity and the Internet of Things
 
--**Institution:** Kennesaw State University
-
--**Completed:** June 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/BBWV5RWJ5G5B)
+- **Institution:** Kennesaw State University.
+- **Completed:** June 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/BBWV5RWJ5G5B)
 
 ### Key Areas
 
@@ -71,51 +61,39 @@ The certificates and credential links included here provide evidence of continuo
 
 ### Medical Applications of Particle Accelerators (NPAP MOOC)
 
--**Institution:** Lund University
-
--**Completed:** August 2026
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/WJZDQV2B9VJ0)
+- **Institution:** Lund University
+- **Completed:** August 2026
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/WJZDQV2B9VJ0)
 
 ### Introduction to Particle Accelerators (NPAP MOOC)
 
--**Institution:** Lund University
-
--**Completed:** July 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/KUVZAG337PH4)
+- **Institution:** Lund University
+- **Completed:** July 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/KUVZAG337PH4)
 
 ### Introduction to Quantum Information
 
--**Institution:** Korea Advanced Institute of Science and Technology (KAIST)
-
--**Completed:** July 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/SASM3ZR5HXQY)
+- **Institution:** Korea Advanced Institute of Science and Technology (KAIST)
+- **Completed:** July 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/SASM3ZR5HXQY)
 
 ### Particle Physics: an Introduction
 
--**Institution:** University of Geneva
-
--**Completed:** June 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/QTZT4SNUYGCF)
+- **Institution:** University of Geneva
+- **Completed:** June 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/QTZT4SNUYGCF)
 
 ### Quantum Optics 1: Single Photons
 
--**Institution:** École Polytechnique
-
--**Completed:** April 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/49KCSS2QGPUN)
+- **Institution:** École Polytechnique
+- **Completed:** April 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/49KCSS2QGPUN)
 
 ### Quantum Optics 2 – Two Photons and More
 
--**Institution:** École Polytechnique
-
--**Completed:** April 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/8GFXNC455V2B)
+- **Institution:** École Polytechnique
+- **Completed:** April 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/8GFXNC455V2B)
 
 ### Key Areas
 
@@ -133,27 +111,21 @@ The certificates and credential links included here provide evidence of continuo
 
 ### Electric Power Systems
 
--**Institution:** University at Buffalo, The State University of New York.
-
--**Completed:** June 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/RUU86CRHQW8D)
+- **Institution:** University at Buffalo, The State University of New York.
+- **Completed:** June 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/RUU86CRHQW8D)
 
 ### Natural Gas
 
-+**Institution:** University at Buffalo, The State University of New York.
-
--**Completed:** June 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/X56Z2JD7AS4V)
+- **Institution:** University at Buffalo, The State University of New York.
+- **Completed:** June 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/X56Z2JD7AS4V)
 
 ### Oil & Gas Industry Operations and Markets.
 
--**Institution:** Duke University
-
--**Completed:** April 2023
-
--**Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/6P7JGZAZDUCL)
+- **Institution:** Duke University
+- **Completed:** April 2023
+- **Credential:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/6P7JGZAZDUCL)
 
 ### Key Areas
 
@@ -172,11 +144,9 @@ The certificates and credential links included here provide evidence of continuo
 
 ### Displays
 
--**Institution:** University of Colorado Boulder.
-
--**Completed:** April 2023
-
--**Course:** [View Course](https://www.coursera.org/learn/displays)
+- **Institution:** University of Colorado Boulder.
+- **Completed:** April 2023
+- **Course:** [View Course](https://www.coursera.org/learn/displays)
 
 
 ---
